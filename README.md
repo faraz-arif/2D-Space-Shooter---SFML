@@ -4,19 +4,19 @@ This is a 2D game built using C++ and SFML as part of my first semester programm
 
 #### **Features**
 
-1\. Player movement.
+1. Player movement.
 
-2\. Collision detection.
+2. Collision detection.
 
-3\. Score system and game saving.
+3. Score system and game saving.
 
-4\. Simple UI.
+4. Simple UI.
 
 #### Technologies Used
 
 1. C++.
 
-2\. SFML Library (3.0.2).
+2. SFML Library (3.0.2).
 
 #### Note About Assets
 

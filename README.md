@@ -24,9 +24,9 @@ All images and sounds used in this project were taken from free online resources
 
 #### How to Run
 
-1\. Install SFML on your pc. 
+1. Install SFML on your pc. 
 
-2\. Link SFML libraries.  
+2. Link SFML libraries.  
 
-3\. Compile and Run.
+3. Compile and Run.
 

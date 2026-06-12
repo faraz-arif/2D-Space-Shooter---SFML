@@ -4,7 +4,7 @@ This is a 2D game built using C++ and SFML as part of my first semester programm
 
 #### **Features**
 
-1. Player movement.
+1\. Player movement.
 
 2\. Collision detection.
 
